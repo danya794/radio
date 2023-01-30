@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2531c77b-db0b-463a-82c2-cfebc117c764" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/RadioWithParametersTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Radio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RadioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RadioTest.java" afterDir="false" />
@@ -55,52 +56,52 @@
       <command value="mvn clean verify" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RadioTest.testCurrentRadioStation">
-    <configuration name="RadioTest.testCurrentRadioStation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RadioWithParametersTest.testIncreaseVolumeWithParameter2">
+    <configuration name="RadioWithParametersTest.testDecreaseVolumeNothingHappenedWithParameter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="radio" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RadioTest" />
-      <option name="METHOD_NAME" value="testCurrentRadioStation" />
+      <option name="MAIN_CLASS_NAME" value="RadioWithParametersTest" />
+      <option name="METHOD_NAME" value="testDecreaseVolumeNothingHappenedWithParameter" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioTest.testCurrentVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioWithParametersTest.testDecreaseVolumeWithParameter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="radio" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RadioTest" />
-      <option name="METHOD_NAME" value="testCurrentVolume" />
+      <option name="MAIN_CLASS_NAME" value="RadioWithParametersTest" />
+      <option name="METHOD_NAME" value="testDecreaseVolumeWithParameter" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioTest.testDecreaseVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioWithParametersTest.testIncreaseVolumeExceptLimitWithParameter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="radio" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RadioTest" />
-      <option name="METHOD_NAME" value="testDecreaseVolume" />
+      <option name="MAIN_CLASS_NAME" value="RadioWithParametersTest" />
+      <option name="METHOD_NAME" value="testIncreaseVolumeExceptLimitWithParameter" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioTest.testIncreaseVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioWithParametersTest.testIncreaseVolumeWithParameter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="radio" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RadioTest" />
-      <option name="METHOD_NAME" value="testIncreaseVolume" />
+      <option name="MAIN_CLASS_NAME" value="RadioWithParametersTest" />
+      <option name="METHOD_NAME" value="testIncreaseVolumeWithParameter" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioTest.testPrevRadioStation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioWithParametersTest.testIncreaseVolumeWithParameter2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="radio" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RadioTest" />
-      <option name="METHOD_NAME" value="testPrevRadioStation" />
+      <option name="MAIN_CLASS_NAME" value="RadioWithParametersTest" />
+      <option name="METHOD_NAME" value="testIncreaseVolumeWithParameter2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RadioTest.testCurrentRadioStation" />
-        <item itemvalue="JUnit.RadioTest.testPrevRadioStation" />
-        <item itemvalue="JUnit.RadioTest.testCurrentVolume" />
-        <item itemvalue="JUnit.RadioTest.testDecreaseVolume" />
-        <item itemvalue="JUnit.RadioTest.testIncreaseVolume" />
+        <item itemvalue="JUnit.RadioWithParametersTest.testIncreaseVolumeWithParameter2" />
+        <item itemvalue="JUnit.RadioWithParametersTest.testIncreaseVolumeWithParameter" />
+        <item itemvalue="JUnit.RadioWithParametersTest.testIncreaseVolumeExceptLimitWithParameter" />
+        <item itemvalue="JUnit.RadioWithParametersTest.testDecreaseVolumeNothingHappenedWithParameter" />
+        <item itemvalue="JUnit.RadioWithParametersTest.testDecreaseVolumeWithParameter" />
       </list>
     </recent_temporary>
   </component>
