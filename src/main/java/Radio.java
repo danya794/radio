@@ -4,7 +4,7 @@ public class Radio {
 
     public void nextRadioStation() {
         if (currentRadioStation != 9) {
-            currentRadioStation++; //return;
+            currentRadioStation++;
         } else {
             currentRadioStation = 0;
         }

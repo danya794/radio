@@ -109,10 +109,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RadioTest.testCurrentRadioStation" />
+        <item itemvalue="JUnit.RadioTest.testPrevRadioStation" />
         <item itemvalue="JUnit.RadioTest.testCurrentVolume" />
         <item itemvalue="JUnit.RadioTest.testDecreaseVolume" />
         <item itemvalue="JUnit.RadioTest.testIncreaseVolume" />
-        <item itemvalue="JUnit.RadioTest.testPrevRadioStation" />
       </list>
     </recent_temporary>
   </component>
